@@ -30,8 +30,8 @@ const contacts = [
  * Look up contact info given a first name and property key. If first
  * name or property key does not exist, return string that either informs
  * if the contact or property does not exist in the contact objects list. 
- * @param {String} name A first name
- * @param {String} prop A property key
+ * @param {*String} name A first name
+ * @param {*String} prop A property key
  * @returns Contact's prop value or not found string
  */
 function lookUpProfile(name, prop)

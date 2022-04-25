@@ -1,6 +1,6 @@
 /**
  * Check whether a number is positive, negative, or equal to zero
- * @param {Number} num The number being tested
+ * @param {*Number} num The number being tested
  * @returns A string indicating positive, negative, or zero
  */
 function checkSign(num) {

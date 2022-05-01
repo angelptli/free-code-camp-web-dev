@@ -10,7 +10,7 @@ const result = {
  * @param {*Object} arr The object's property
  * @returns An array of failure items.
  */
-function makeList(arr) {
+function makeList(arr){
   const failureItems = [];
 
   // Use a template literal to create each string in the array

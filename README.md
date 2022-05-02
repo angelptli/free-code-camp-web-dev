@@ -7,9 +7,9 @@
 <br>
 
 - Basic JavaScript (113/113)
-- ES6 (0/29)
-- Regular Expressions (0/33)
-- Debugging (0/12)
+- ES6 (29/29)
+- Regular Expressions (33/33)
+- Debugging (12/12)
 - Basic Data Structures (0/20)
 - Basic Algorithm Scripting (0/16)
 - Object Oriented Programming (0/26)

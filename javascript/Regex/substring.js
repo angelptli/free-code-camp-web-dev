@@ -66,6 +66,65 @@ let result11 = chewieQuote.match(chewieRegex);
 // "<h1>Winter is coming</h1>". Remember the wildcard . in a regular expression
 // matches any character.
 let text = "<h1>Winter is coming</h1>";
-let myRegex4 = /<.*?>/; // Change this line
-let result = text.match(myRegex4);
+let myRegex4 = /<.*?>/;
+let result12 = text.match(myRegex4);
 
+// Use the caret character in a regex to find Cal only in the beginning
+// of the string rickyAndCal
+let rickyAndCal = "Cal and Ricky both like racing.";
+let calRegex = /^Cal/;
+let result13 = calRegex.test(rickyAndCal);
+
+// Use the anchor character ($) to match the string caboose at the end
+// of the string caboose
+let caboose = "The last car on a train is the caboose";
+let lastRegex = /caboose$/;
+let result14 = lastRegex.test(caboose);
+
+
+// Use the shorthand character class \w to count the number of alphanumeric
+// characters in various quotes and strings
+let quoteSample5 = "The five boxing wizards jump quickly.";
+let alphabetRegexV2 = /\w/g;
+let result15 = alphabetRegexV2.test(quoteSample5).length;
+
+// Use the shorthand character class \W to count the number of non-alphanumeric
+// characters in various quotes and strings
+let quoteSample6 = "The five boxing wizards jump quickly.";
+let nonAlphabetRegex = /\W/g;
+let result16 = quoteSample6.match(nonAlphabetRegex).length;
+
+// Use the shorthand character class \d to count how many digits
+// are in movie titles
+let movieName1 = "2001: A Space Odyssey";
+let numRegex = /\d/g;
+let result17 = movieName1.match(numRegex).length;
+
+// Use the shorthand character class for non-digits \D to count how many
+// non-digits are in movie titles
+let movieName2 = "2001: A Space Odyssey";
+let noNumRegex = /\D/g;
+let result18 = movieName2.match(noNumRegex).length;
+
+// Change the regex userCheck to fit the constraints listed above
+let username = "JackOfAllTrades";
+let userCheck = /^[a-z][a-z]+\d*$|^[a-z]\d\d+$/i;
+let result19 = userCheck.test(username);
+
+// Change the regex countWhiteSpace to look for multiple whitespace
+// characters in a string
+let sample1 = "Whitespace is important in separating words";
+let countWhiteSpace = /\s/g;
+let result20 = sample1.match(countWhiteSpace);
+
+// Change the regex countNonWhiteSpace to look for multiple non-whitespace
+// characters in a string
+let sample2 = "Whitespace is important in separating words";
+let countNonWhiteSpace = /\S/g;
+let result21 = sample2.match(countNonWhiteSpace);
+
+// Change the regex favRegex to match both the American English (favorite)
+// and the British English (favourite) version of the word
+let favWord = "favorite";
+let favRegex = /favou?rite/;
+let result22 = favRegex.test(favWord);

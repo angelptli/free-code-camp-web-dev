@@ -6,7 +6,7 @@
 
 <br>
 
-- [Basic JavaScript](./javascript/Javascript/) (113/113)
+- [Basic JavaScript](./javascript/javascript/) (113/113)
 - [ES6](./javascript/ES6/) (29/29)
 - [Regular Expressions](./javascript/Regex/) (33/33)
 - [Debugging](./javascript/Debug/) (12/12)

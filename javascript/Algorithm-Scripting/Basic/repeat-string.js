@@ -12,19 +12,19 @@ function repeatStringNumTimes(str, num) {
 }
 
 // should return the string ***
-repeatStringNumTimes("*", 3)
+repeatStringNumTimes("*", 3);
 
 // should return the string abcabcabc
-repeatStringNumTimes("abc", 3)
+repeatStringNumTimes("abc", 3);
 
 // should return the string abcabcabcabc
-repeatStringNumTimes("abc", 4)
+repeatStringNumTimes("abc", 4);
 
 // should return the string abc
-repeatStringNumTimes("abc", 1)
+repeatStringNumTimes("abc", 1);
 
 // should return the string ********
-repeatStringNumTimes("*", 8)
+repeatStringNumTimes("*", 8);
 
 // should return an empty string ("")
-repeatStringNumTimes("abc", -2)
+repeatStringNumTimes("abc", -2);

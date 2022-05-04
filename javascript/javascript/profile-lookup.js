@@ -69,9 +69,9 @@ function lookUpProfile(name, prop)
 }
 
 // Tests
-lookUpProfile("Kristian", "lastName") // should return the string Vos
-lookUpProfile("Sherlock", "likes") // should return ["Intriguing Cases", "Violin"]
-lookUpProfile("Harry", "likes") // should return an array
-lookUpProfile("Bob", "number") // should return the string No such contact
-lookUpProfile("Bob", "potato") // should return the string No such contact
-lookUpProfile("Akira", "address") // should return the string No such property
+lookUpProfile("Kristian", "lastName"); // should return the string Vos
+lookUpProfile("Sherlock", "likes"); // should return ["Intriguing Cases", "Violin"]
+lookUpProfile("Harry", "likes"); // should return an array
+lookUpProfile("Bob", "number"); // should return the string No such contact
+lookUpProfile("Bob", "potato"); // should return the string No such contact
+lookUpProfile("Akira", "address"); // should return the string No such property

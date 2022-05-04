@@ -6,31 +6,31 @@ function booWho(bool) {
 }
 
 // should return true
-booWho(true)
+booWho(true);
 
 // should return true
-booWho(false)
+booWho(false);
 
 // should return false
-booWho([1, 2, 3])
+booWho([1, 2, 3]);
 
 // should return false
-booWho([].slice)
+booWho([].slice);
 
 // should return false
-booWho({ "a": 1 })
+booWho({ "a": 1 });
 
 // should return false
-booWho(1)
+booWho(1);
 
 // should return false
-booWho(NaN)
+booWho(NaN);
 
 // should return false
-booWho("a")
+booWho("a");
 
 // should return false
-booWho("true")
+booWho("true");
 
 // should return false
-booWho("false")
+booWho("false");

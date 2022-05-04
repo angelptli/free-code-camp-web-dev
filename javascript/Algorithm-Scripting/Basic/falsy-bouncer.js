@@ -13,13 +13,13 @@ function bouncer(arr) {
 }
 
 // should return [7, "ate", 9]
-bouncer([7, "ate", "", false, 9])
+bouncer([7, "ate", "", false, 9]);
 
 // should return ["a", "b", "c"]
-bouncer(["a", "b", "c"])
+bouncer(["a", "b", "c"]);
 
 // should return []
-bouncer([false, null, 0, NaN, undefined, ""])
+bouncer([false, null, 0, NaN, undefined, ""]);
 
 // should return [1, 2]
-bouncer([null, NaN, 1, 2, undefined])
+bouncer([null, NaN, 1, 2, undefined]);

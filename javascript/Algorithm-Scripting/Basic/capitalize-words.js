@@ -16,10 +16,10 @@ function titleCase(str) {
 }
 
 // should return the string I'm A Little Tea Pot
-titleCase("I'm a little tea pot")
+titleCase("I'm a little tea pot");
 
 // should return the string Short And Stout
-titleCase("sHoRt AnD sToUt")
+titleCase("sHoRt AnD sToUt");
 
 // should return the string Here Is My Handle Here Is My Spout
-titleCase("HERE IS MY HANDLE HERE IS MY SPOUT")
+titleCase("HERE IS MY HANDLE HERE IS MY SPOUT");

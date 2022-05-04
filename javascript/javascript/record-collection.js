@@ -67,19 +67,19 @@ function updateRecords(records, id, prop, value) {
 updateRecords(recordCollection, 5439, "artist", "keshi");
 
 // tracks should have the string like i need u as the last and only element.
-updateRecords(recordCollection, 5439, "tracks", "like i need u")
+updateRecords(recordCollection, 5439, "tracks", "like i need u");
 
 // artist should not be set
-updateRecords(recordCollection, 2548, "artist", "")
+updateRecords(recordCollection, 2548, "artist", "");
 
 // tracks should have the string Ease Your Mind as the last element.
-updateRecords(recordCollection, 1245, "tracks", "Ease Your Mind")
+updateRecords(recordCollection, 1245, "tracks", "Ease Your Mind");
 
 // tracks should have the string 1999 as the first element.
-updateRecords(recordCollection, 2468, "tracks", "Free")
+updateRecords(recordCollection, 2468, "tracks", "Free");
 
 // tracks should not be set
-updateRecords(recordCollection, 2548, "tracks", "")
+updateRecords(recordCollection, 2548, "tracks", "");
 
 // albumTitle should be the string Ease Your Mind - Single
-updateRecords(recordCollection, 1245, "albumTitle", "Ease Your Mind - Single")
+updateRecords(recordCollection, 1245, "albumTitle", "Ease Your Mind - Single");

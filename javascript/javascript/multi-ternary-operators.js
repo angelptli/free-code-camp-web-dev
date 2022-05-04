@@ -9,6 +9,6 @@ function checkSign(num) {
     : "zero";
 }
 
-checkSign(10)  // should return the string positive
-checkSign(-12) // should return the string negative
-checkSign(0)   // should return the string zero
+checkSign(10);  // should return the string positive
+checkSign(-12); // should return the string negative
+checkSign(0);   // should return the string zero

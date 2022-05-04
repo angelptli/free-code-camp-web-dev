@@ -9,37 +9,37 @@ function mutation(arr) {
 }
 
 // should return false
-mutation(["hello", "hey"])
+mutation(["hello", "hey"]);
 
 // should return true
-mutation(["hello", "Hello"])
+mutation(["hello", "Hello"]);
 
 // should return true
-mutation(["zyxwvutsrqponmlkjihgfedcba", "qrstu"])
+mutation(["zyxwvutsrqponmlkjihgfedcba", "qrstu"]);
 
 // should return true
-mutation(["Mary", "Army"])
+mutation(["Mary", "Army"]);
 
 // should return true
-mutation(["Mary", "Aarmy"])
+mutation(["Mary", "Aarmy"]);
 
 // should return true
-mutation(["Alien", "line"])
+mutation(["Alien", "line"]);
 
 // should return true
-mutation(["floor", "for"])
+mutation(["floor", "for"]);
 
 // should return false
-mutation(["hello", "neo"])
+mutation(["hello", "neo"]);
 
 // should return false
-mutation(["voodoo", "no"])
+mutation(["voodoo", "no"]);
 
 // should return false
-mutation(["ate", "date"])
+mutation(["ate", "date"]);
 
 // should return false
-mutation(["Tiger", "Zebra"])
+mutation(["Tiger", "Zebra"]);
 
 // should return true
-mutation(["Noel", "Ole"])
+mutation(["Noel", "Ole"]);

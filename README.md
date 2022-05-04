@@ -13,7 +13,7 @@
 - [Basic Data Structures](./javascript/Data-Structures/) (20/20)
 - [Basic Algorithm Scripting](./javascript/Algorithm-Scripting/Basic/) (16/16)
 - [Object Oriented Programming](./javascript/OOP/) (26/26)
-- [Functional Programming](./javascript/FP/) (0/24)
+- [Functional Programming](./javascript/FP/) (24/24)
 - [Intermediate Algorithm Scripting](./javascript/Algorithm-Scripting/Intermediate/) (0/21)
 - [JavaScript Algorithms and Data Structures Projects](./javascript/Projects/) (0/5)
 </details>

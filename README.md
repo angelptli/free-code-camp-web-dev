@@ -6,16 +6,16 @@
 
 <br>
 
-- Basic JavaScript (113/113)
-- ES6 (29/29)
-- Regular Expressions (33/33)
-- Debugging (12/12)
-- Basic Data Structures (20/20)
-- Basic Algorithm Scripting (16/16)
-- Object Oriented Programming (26/26)
-- Functional Programming (0/24)
-- Intermediate Algorithm Scripting (0/21)
-- JavaScript Algorithms and Data Structures Projects (0/5)
+- [Basic JavaScript](./javascript/Javascript/) (113/113)
+- [ES6](./javascript/ES6/) (29/29)
+- [Regular Expressions](./javascript/Regex/) (33/33)
+- [Debugging](./javascript/Debug/) (12/12)
+- [Basic Data Structures](./javascript/Data-Structures/) (20/20)
+- [Basic Algorithm Scripting](./javascript/Algorithm-Scripting/Basic/) (16/16)
+- [Object Oriented Programming](./javascript/OOP/) (26/26)
+- [Functional Programming](./javascript/FP/) (0/24)
+- [Intermediate Algorithm Scripting](./javascript/Algorithm-Scripting/Intermediate/) (0/21)
+- [JavaScript Algorithms and Data Structures Projects](./javascript/Projects/) (0/5)
 </details>
 
 <details>

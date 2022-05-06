@@ -14,9 +14,6 @@ function telephoneCheck(str) {
 
 // Tests
 
-console.log(telephoneCheck("555-555-5555")); // boolean
-console.assert(telephoneCheck("555-555-5555"), "should return a boolean");
-
 console.log(telephoneCheck("1 555-555-5555")); // true
 console.assert(telephoneCheck("1 555-555-5555"), "should return true");
 

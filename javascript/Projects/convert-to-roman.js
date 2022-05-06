@@ -35,14 +35,16 @@ function convertToRoman(num) {
   // If num > 10, pad the numbers greater than 10. Increase by
   // one zero pad with each new iteration.
   if (num > 10) {
-    let zero = "0";
+    let zero = "";
+    let lastNum = arrNum.length;
 
-    for (let n = arrNum.length - 2; n >= 0; n--) {
-      if (n != arrNum.length - 1) {
-        arrNum[n] = arrNum[n] + zero;
+    arrNum.slice(0, lastNum - 1).map(n => {
+      if (lastNum >= 0) {
         zero += "0";
+        lastNum--;
+        arrNum[lastNum - 1] += zero;
       }
-    }  
+    });
   }
 
   let value = "";
@@ -144,4 +146,3 @@ console.assert(convertToRoman(2014), "should return the string MMXIV");
 
 console.log(convertToRoman(3999)); // MMMCMXCIX
 console.assert(convertToRoman(3999), "should return the string MMMCMXCIX");
-

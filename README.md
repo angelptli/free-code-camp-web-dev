@@ -23,14 +23,14 @@
 
 <br>
 
-- Basic HTML and HTML5 (28/28)
-- Basic CSS (44/44)
-- Applied Visual Design (0/52)
-- Applied Accessibility (0/22)
-- Responsive Web Design Principles (0/4)
-- CSS Flexbox (0/17)
-- CSS Grid (0/22)
-- Responsive Web Design Projects (0/5)
+- [Basic HTML and HTML5](./responsive-web-design/HTML-HTML5/) (28/28)
+- [Basic CSS](./responsive-web-design/CSS/Basic/) (44/44)
+- [Applied Visual Design](./responsive-web-design/Applied-Visual-Design/) (0/52)
+- [Applied Accessibility](./responsive-web-design/Applied-Accessibility/) (0/22)
+- [Responsive Web Design Principles](./responsive-web-design/Principles/) (0/4)
+- [CSS Flexbox](./responsive-web-design/CSS/Flexbox/) (0/17)
+- [CSS Grid](./responsive-web-design/CSS/Grid/) (0/22)
+- [Responsive Web Design Projects](./responsive-web-design/Projects/) (0/5)
 </details>
 
 <details>

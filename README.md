@@ -24,7 +24,7 @@
 <br>
 
 - Basic HTML and HTML5 (28/28)
-- Basic CSS (20/44)
+- Basic CSS (44/44)
 - Applied Visual Design (0/52)
 - Applied Accessibility (0/22)
 - Responsive Web Design Principles (0/4)

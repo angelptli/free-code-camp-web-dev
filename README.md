@@ -15,7 +15,7 @@
 - [Object Oriented Programming](./javascript/OOP/) (26/26)
 - [Functional Programming](./javascript/FP/) (24/24)
 - [Intermediate Algorithm Scripting](./javascript/Algorithm-Scripting/Intermediate/) (21/21)
-- [JavaScript Algorithms and Data Structures Projects](./javascript/Projects/) (0/5)
+- [JavaScript Algorithms and Data Structures Projects](./javascript/Projects/) (5/5)
 </details>
 
 <details>

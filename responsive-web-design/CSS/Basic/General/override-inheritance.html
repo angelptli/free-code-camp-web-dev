@@ -1,0 +1,31 @@
+<style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+
+  #orange-text {
+    color: orange;
+  }
+
+  .pink-text {
+    color: pink !important;
+  }
+
+  .blue-text {
+    color: blue;
+  }
+</style>
+
+<!--
+Precedence from highest to lowest:
+  keyword !important: pink text (forced as highest)
+  inline style: white text
+  id attribute: orange text
+  lowest order class: blue text
+  highest order class: pink text
+-->
+<h1 class="pink-text blue-text" id="orange-text" style="color: white">
+  Hello World!
+</h1>

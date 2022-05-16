@@ -49,10 +49,10 @@
     - [Technical Documentation Page](./responsive-web-design/Projects/Technical-Documentation-Page/)
     - [Product Landing Page](./responsive-web-design/Projects/Product-Landing-Page/)
 - [Legacy Curriculum](./responsive-web-design/Legacy-Curriculum/)
-    - [Basic HTML and HTML5](./responsive-web-design/HTML-HTML5/)
-    - [Basic CSS](./responsive-web-design/CSS/Basic/)
-    - [Applied Visual Design](./responsive-web-design/Applied-Visual-Design/)
-    - [Applied Accessibility](./responsive-web-design/Applied-Accessibility/)
+    - [Basic HTML and HTML5](./responsive-web-design/Legacy-Curriculum/HTML-HTML5/) - Complete
+    - [Basic CSS](./responsive-web-design/Legacy-Curriculum/CSS/Basic/) - Complete
+    - [Applied Visual Design](./responsive-web-design/Legacy-Curriculum/Applied-Visual-Design/) - Complete
+    - [Applied Accessibility](./responsive-web-design/Legacy-Curriculum/Applied-Accessibility/) - Complete
 </details>
 
 <details>

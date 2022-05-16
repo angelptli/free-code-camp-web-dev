@@ -1,0 +1,15 @@
+<style>
+  :root {
+    --red-color: red;
+  }
+
+  /* If the variable red-color is not supported by a browser, it'll use
+     the fallback of red above it. */
+  .red-box {
+    background: red;
+    background: var(--red-color);
+    height: 200px;
+    width: 200px;
+  }
+</style>
+<div class="red-box"></div>

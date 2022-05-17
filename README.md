@@ -26,7 +26,7 @@
 - [Milestone 1](./responsive-web-design/Milestone-1/)
     - [Learn HTML by Building a Cat Photo App](./responsive-web-design/Milestone-1/Cat-Photo-App/) (67/67)
     - [Learn Basic CSS by Building a Cafe Menu](./responsive-web-design/Milestone-1/Cafe-Menu/) (92/92)
-    - [Learn CSS Colors by Building a Set of Colored Markers](./responsive-web-design/Milestone-1/Colored-Markers/) (0/94)
+    - [Learn CSS Colors by Building a Set of Colored Markers](./responsive-web-design/Milestone-1/Colored-Markers/) (94/94)
     - [Learn HTML Forms by Building a Registration Form](./responsive-web-design/Milestone-1/Registration-Form/) (0/57)
 - [Milestone 2](./responsive-web-design/Milestone-2/)
     - [Learn the CSS Box Model by Building a Rothko Painting](./responsive-web-design/Milestone-2/Rothko-Painting/) (0/45)

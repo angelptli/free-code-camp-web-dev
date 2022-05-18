@@ -23,7 +23,7 @@
 
 <br>
 
-- [Milestone 1](./responsive-web-design/Milestone-1/)
+- [Milestone 1](./responsive-web-design/Milestone-1/) - Complete
     - [Learn HTML by Building a Cat Photo App](./responsive-web-design/Milestone-1/Cat-Photo-App/) (67/67)
     - [Learn Basic CSS by Building a Cafe Menu](./responsive-web-design/Milestone-1/Cafe-Menu/) (92/92)
     - [Learn CSS Colors by Building a Set of Colored Markers](./responsive-web-design/Milestone-1/Colored-Markers/) (94/94)
@@ -43,8 +43,8 @@
 - [Milestone 5](./responsive-web-design/Milestone-5/)
     - [Learn CSS Transforms by Building a Penguin](./responsive-web-design/Milestone-5/Penguin/) (0/104)
     - [Learn CSS Animation by Building a Ferris Wheel](./responsive-web-design/Milestone-5/Ferris-Wheel/) (0/29)
-- [Projects](./responsive-web-design/Projects/) (0/5)
-    - [Survey Form](./responsive-web-design/Projects/Survey-Form/)
+- [Projects](./responsive-web-design/Projects/) (1/5)
+    - [Survey Form](./responsive-web-design/Projects/Survey-Form/) - Complete
     - [Tribute Page](./responsive-web-design/Projects/Tribute-Page/)
     - [Technical Documentation Page](./responsive-web-design/Projects/Technical-Documentation-Page/)
     - [Product Landing Page](./responsive-web-design/Projects/Product-Landing-Page/)

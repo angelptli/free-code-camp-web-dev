@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Pasta Order</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <h1 id="title">Pasta Order</h1>
+  <p id="description">
+    <em>Tell us what you want and we'll make it happen</em>
+  </p>
+  <form id="survey-form">
+    <label for="name-label">Name <input id="name" type="text" placeholder="Enter your name" required /></label>
+    <label for="email-label">Email <input id="email" type="text" placeholder="Enter your Email" required /></label>
+    <label for="number-label">Number of Orders <input id="number" type="number" min="0" max="5" placeholder="Select number of orders" required /></label>
+    <label>Pick a pasta type
+      <select id="dropdown">
+        <option value="">Select pasta</option>
+        <option value="spaghetti">Spaghetti</option>
+        <option value="macaroni">Macaroni</option>
+        <option value="fettuccine">Fettuccine</option>
+        <option value="rigatoni">Rigatoni</option>
+        <option value="farfalle">Farfalle</option>
+        <option value="ravioli">Ravioli</option>
+        <option value="tortelli">Tortelli</option>
+        <option value="pappardelle">Pappardelle</option>
+        <option value="cavatelli">Cavatelli</option>
+        <option value="tagliatelle">Tagliatelle</option>
+        <option value="lasagna">Lasagna</option>
+        <option value="vermicelli">Vermicelli</option>
+        <option value="barbine">Barbine</option>
+        <option value="bavette">Bavette</option>
+        <option value="bigoli">Bigoli</option>
+        <option value="conchiglie">Conchiglie</option>
+        <option value="fileja">Fileja</option>
+        <option value="ziti">Ziti</option>
+        <option value="stringozzi">Stringozzi</option>
+        <option value="rotelle">Rotelle</option>
+        <option value="orzo">Orzo</option>
+        <option value="acini">Acini di pepe</option>
+        <option value="ditalini">Ditalini</option>
+        <option value="gemelli">Gemelli</option>
+        <option value="torchio">Torchio</option>
+        <option value="penne">Penne</option>
+        <option value="fusilli">Fusilli</option>
+        <option value="cannelloni">Cannelloni</option>
+        <option value="cannelloni">Cannelloni</option>
+        <option value="corzetti">Corzetti</option>
+        <option value="orecchiette">Orecchiette</option>
+        <option value="cencioni">Cencioni</option>
+        <option value="canederli">Canederli</option>
+        <option value="other-pasta">Other</option>
+      </select>
+    </label>
+
+    <label>Pick a sauce type
+      <select id="dropdown">
+        <option value="">Select a sauce</option>
+        <option value="bolognese">Bolognese</option>
+        <option value="ragu">Ragu</option>
+        <option value="marinara">Marinara</option>
+        <option value="pesto">Pesto</option>
+        <option value="aglio-e-olio">Aglio e olio</option>
+        <option value="alfredo">Alfredo</option>
+        <option value="carbonara">Carbonara</option>
+        <option value="cacio-e-pepe">Cacio e pepe</option>
+        <option value="funghi-e-piselli">Funghi e piselli </option>
+        <option value="vegan-pasta-sauce">Vegan pasta sauce</option>
+        <option value="other-sauce">Other</option>
+      </select>
+    </label>   
+
+    <div>How would you like to receive your meal?</div>
+    <label><input type="radio" name="receive-method" class="inline" /> Delivery</label>
+    <label><input type="radio" name="receive-method" class="inline" /> Pick Up</label>
+    <label><input type="radio" name="receive-method" class="inline" /> Dine-In</label>
+    <label><input type="radio" name="receive-method" class="inline" /> To-Go</label>
+
+    <div>Choose from our free-drink menu (Unlimited picks)</div>
+    <label><input type="checkbox" name="drink" class="inline" required /> Pina Colada</label>
+    <label><input type="checkbox" name="drink" class="inline" required /> Red Wine</label>
+    <label><input type="checkbox" name="drink" class="inline" required /> White Wine</label>
+    <label><input type="checkbox" name="drink" class="inline" required /> Cold Beer</label>
+    <label><input type="checkbox" name="drink" class="inline" required /> Sparkling Cider</label>
+    <label><input type="checkbox" name="drink" class="inline" required /> Water</label>
+
+    For 'Other' pasta or sauce, specify below
+    <textarea placeholder="Enter your details here..."> </textarea>
+    <input id="submit" type="submit">Finish Order & Pay</input>
+  </form>
+</body>
+
+</html>

@@ -16,6 +16,11 @@
 - [Functional Programming](./javascript/FP/) (24/24)
 - [Intermediate Algorithm Scripting](./javascript/Algorithm-Scripting/Intermediate/) (21/21)
 - [Projects](./javascript/Projects/) (5/5)
+    - [Palindrome Checker](./javascript/Projects/palindrome-checker.js) - Complete
+    - [Roman Numeral Converter](./javascript/Projects/convert-to-roman.js) - Complete
+    - [Caesars Cipher](./javascript/Projects/caesars-cipher.js) - Complete
+    - [Telephone Number Validator](./javascript/Projects/valid-phone-number.js) - Complete
+    - [Cash Register](./javascript/Projects/cash-register.js) - Complete
 </details>
 
 <details>
@@ -29,10 +34,10 @@
     - [Learn CSS Colors by Building a Set of Colored Markers](./responsive-web-design/Milestone-1/Colored-Markers/) (94/94)
     - [Learn HTML Forms by Building a Registration Form](./responsive-web-design/Milestone-1/Registration-Form/) (57/57)
 - [Milestone 2](./responsive-web-design/Milestone-2/)
-    - [Learn the CSS Box Model by Building a Rothko Painting](./responsive-web-design/Milestone-2/Rothko-Painting/) (0/45)
-    - [Learn CSS Flexbox by Building a Photo Gallery](./responsive-web-design/Milestone-2/Photo-Gallery/) (0/21)
-    - [Learn Typography by Building a Nutrition Label](./responsive-web-design/Milestone-2/Nutrition-Label/) (0/66)
-    - [Learn Accessibility by Building a Quiz](./responsive-web-design/Milestone-2/Quiz/) (0/67)
+    - [Learn the CSS Box Model by Building a Rothko Painting](./responsive-web-design/Milestone-2/Rothko-Painting/) (45/45)
+    - [Learn CSS Flexbox by Building a Photo Gallery](./responsive-web-design/Milestone-2/Photo-Gallery/) (21/21)
+    - [Learn Typography by Building a Nutrition Label](./responsive-web-design/Milestone-2/Nutrition-Label/) (66/66)
+    - [Learn Accessibility by Building a Quiz](./responsive-web-design/Milestone-2/Quiz/) (67/67)
 - [Milestone 3](./responsive-web-design/Milestone-3/)
     - [Learn More About CSS Pseudo Selectors by Building A Balance Sheet](./responsive-web-design/Milestone-3/Balance-Sheet/) (0/65)
     - [Learn Intermediate CSS by Building a Picasso Painting](./responsive-web-design/Milestone-3/Picasso-Painting/) (0/89)
@@ -45,7 +50,7 @@
     - [Learn CSS Animation by Building a Ferris Wheel](./responsive-web-design/Milestone-5/Ferris-Wheel/) (0/29)
 - [Projects](./responsive-web-design/Projects/) (1/5)
     - [Survey Form](./responsive-web-design/Projects/Survey-Form/) - Complete
-    - [Tribute Page](./responsive-web-design/Projects/Tribute-Page/)
+    - [Tribute Page](./responsive-web-design/Projects/Tribute-Page/) - In Progress
     - [Technical Documentation Page](./responsive-web-design/Projects/Technical-Documentation-Page/)
     - [Product Landing Page](./responsive-web-design/Projects/Product-Landing-Page/)
 - [Legacy Curriculum](./responsive-web-design/Legacy-Curriculum/)

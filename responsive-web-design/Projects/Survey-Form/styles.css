@@ -42,7 +42,7 @@ label {
   width: 100%;
   padding: 6px;
   border-color: rgba(0, 0, 0, 0);
-  /* border-radius: 5px; */
+  border-radius: 5px;
   color: grey;
 }
 
@@ -53,6 +53,8 @@ textarea {
   max-height: 100px;
   border-color: rgba(0, 0, 0, 0);
   border-radius: 5px;
+  font-family: courier new;
+  padding: 6px;
   color: grey;
 }
 
@@ -87,17 +89,14 @@ hr {
 
 #name::placeholder,
 #email::placeholder,
-#number::placeholder {
+#number::placeholder,
+select {
   font-family: courier new;
 }
 
 #name-label, #email-label {
   margin-top: 10px;
   margin-bottom: 0;
-}
-
-select {
-  font-family: courier new;
 }
 
 #submit {

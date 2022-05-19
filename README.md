@@ -85,4 +85,6 @@
 - Projects (0/5)
 </details>
 
-##### Visit https://www.freecodecamp.org/ for more certifications and to learn how to code!
+## Credits
+<h5>Curriculum by <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a> - Visit for more certifications and to learn how to code!</h5>
+<h5>Projects by Angel Li <a href="https://github.com/angelptli" target="_blank">@angelptli</a></h5>

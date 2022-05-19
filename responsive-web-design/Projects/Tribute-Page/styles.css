@@ -1,0 +1,14 @@
+#img-div {
+  max-width: 80%;
+  background: red;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 1%;
+}
+
+img {
+  display: block;
+}

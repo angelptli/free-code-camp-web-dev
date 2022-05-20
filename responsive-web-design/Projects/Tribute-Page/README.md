@@ -1,5 +1,4 @@
+<h2 align="center">Ronnie The Cow Tribute Page</h2>
 <p align="center">
-    <h2 align="center">Ronnie The Cow Tribute Page</h2> <br><br>
-    <img src="./media/ronnie-cow-tribute.gif" align="center" width="700" />
-
+    <img src="https://github.com/angelptli/free-code-camp-web-dev/blob/main/responsive-web-design/Projects/Tribute-Page/media/ronnie-cow-tribute.gif" width="800" />
 </p>

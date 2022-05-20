@@ -1,7 +1,9 @@
+<h2 align="center">A Form To Order Pasta</h2>
 <p align="center">
-    <h2 align="center">A Form To Order Pasta</h2> <br><br>
-    <img align="center" src="./media/pasta-order-form.gif" width="700" />
-    <h3 align="center">Snapshot of Pasta Menu</h3> <br><br>
-    <img align="center" src="./media/pasta-menu.jpg" width="500" />
+    <img src="https://github.com/angelptli/free-code-camp-web-dev/blob/main/responsive-web-design/Projects/Survey-Form/media/pasta-order-form.gif" width="800" />
+</p>
 
+<h3 align="center">Snapshot of Pasta Menu</h3> <br><br>
+<p align="center">
+    <img src="./media/pasta-menu.jpg"" width="500" />
 </p>

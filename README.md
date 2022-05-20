@@ -85,6 +85,10 @@
 - Projects (0/5)
 </details>
 
+## Project Snapshots
+- [Pasta Order Form](./responsive-web-design/Projects/Survey-Form/)
+- [Ronnie The Cow Tribute Page](./responsive-web-design/Projects/Tribute-Page/)
+
 ## Credits
 <h5>Curriculum by <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a> - Visit for more certifications and to learn how to code!</h5>
 <h5>Projects by Angel Li <a href="https://github.com/angelptli" target="_blank">@angelptli</a></h5>

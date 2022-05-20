@@ -85,6 +85,7 @@ hr {
   padding: 6px 10px 6px 10px;
   border-color: rgba(0, 0, 0, 0);
   border-radius: 5px;
+  font-family: courier new;
 }
 
 #name::placeholder,

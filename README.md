@@ -48,7 +48,7 @@
 - [Milestone 5](./responsive-web-design/Milestone-5/)
     - [Learn CSS Transforms by Building a Penguin](./responsive-web-design/Milestone-5/Penguin/) (0/104)
     - [Learn CSS Animation by Building a Ferris Wheel](./responsive-web-design/Milestone-5/Ferris-Wheel/) (0/29)
-- [Projects](./responsive-web-design/Projects/) (1/5)
+- [Projects](./responsive-web-design/Projects/) (2/5)
     - [Survey Form](./responsive-web-design/Projects/Survey-Form/) - Complete
     - [Tribute Page](./responsive-web-design/Projects/Tribute-Page/) - Complete
     - [Technical Documentation Page](./responsive-web-design/Projects/Technical-Documentation-Page/)

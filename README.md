@@ -33,7 +33,7 @@
     - [Learn Basic CSS by Building a Cafe Menu](./responsive-web-design/Milestone-1/Cafe-Menu/) (92/92)
     - [Learn CSS Colors by Building a Set of Colored Markers](./responsive-web-design/Milestone-1/Colored-Markers/) (94/94)
     - [Learn HTML Forms by Building a Registration Form](./responsive-web-design/Milestone-1/Registration-Form/) (57/57)
-- [Milestone 2](./responsive-web-design/Milestone-2/)
+- [Milestone 2](./responsive-web-design/Milestone-2/) - Complete
     - [Learn the CSS Box Model by Building a Rothko Painting](./responsive-web-design/Milestone-2/Rothko-Painting/) (45/45)
     - [Learn CSS Flexbox by Building a Photo Gallery](./responsive-web-design/Milestone-2/Photo-Gallery/) (21/21)
     - [Learn Typography by Building a Nutrition Label](./responsive-web-design/Milestone-2/Nutrition-Label/) (66/66)
@@ -50,7 +50,7 @@
     - [Learn CSS Animation by Building a Ferris Wheel](./responsive-web-design/Milestone-5/Ferris-Wheel/) (0/29)
 - [Projects](./responsive-web-design/Projects/) (1/5)
     - [Survey Form](./responsive-web-design/Projects/Survey-Form/) - Complete
-    - [Tribute Page](./responsive-web-design/Projects/Tribute-Page/) - In Progress
+    - [Tribute Page](./responsive-web-design/Projects/Tribute-Page/) - Complete
     - [Technical Documentation Page](./responsive-web-design/Projects/Technical-Documentation-Page/)
     - [Product Landing Page](./responsive-web-design/Projects/Product-Landing-Page/)
 - [Legacy Curriculum](./responsive-web-design/Legacy-Curriculum/)

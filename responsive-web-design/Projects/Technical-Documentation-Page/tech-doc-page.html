@@ -3,59 +3,157 @@
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta rel="stylesheet" href="./styles.css" />
+    <link rel="stylesheet" href="./styles.css" />
+    <title>Python Docs</title>
   </head>
 
   <body>
+    <nav id="navbar">
+      <header id="page-title">Python Docs</header>
+      <a class="nav-link" href="#Introduction">Introduction</a> <br />
+      <a class="nav-link" href="#Prerequisite">Prerequisite</a> <br />
+      <a class="nav-link" href="#Hello_World">Hello World</a> <br />
+      <a class="nav-link" href="#Variables">Variables</a> <br />
+      <a class="nav-link" href="#Declaring_Variables">Declaring Variables</a>
+      <br />
+      <a class="nav-link" href="#Variable_Scope">Variable Scope</a> <br />
+      <a class="nav-link" href="#Global_Variables">Global Variables</a> <br />
+      <a class="nav-link" href="#If...Else_Statement">If...Else Statement</a>
+      <br />
+      <a class="nav-link" href="#Reference">Reference</a> <br />
+    </nav>
+
     <main id="main-doc">
-      <section class="main-section" id="introduction">
+      <section class="main-section" id="Introduction">
         <header>Introduction</header>
-
+        <p>
+          Python is known as one of the most human readable programming
+          languages. It allows us to write and understand code more quickly
+          because we don't have to deal with many declarations that are usually
+          required in low-level programming languages. That said, Python is a
+          high-level language.
+        </p>
       </section>
-      <section class="main-section" id="prerequisite">
+      <section class="main-section" id="Prerequisite">
         <header>Prerequisite</header>
-
+        <p>This guide assumes you:</p>
+        <ul>
+          <li>Are interested in the Python programming language</li>
+          <li>Have basic familiarity with any programming language</li>
+          <li>
+            Follow and use the example code to gain deeper knowledge on Python
+          </li>
+        </ul>
       </section>
-      <section class="main-section" id="python">
-        <header>Python</header>
-
-      </section>
-      <section class="main-section" id="hello_word">
+      <section class="main-section" id="Hello_World">
         <header>Hello World</header>
-
+        <p>
+          Get started with the famous starter of every programming language:
+        </p>
+        <code> print("Hello World") </code>
+        <p></p>
       </section>
-      <section class="main-section" id="variables">
+      <section class="main-section" id="Variables">
         <header>Variables</header>
+        <p>
+          Name variables to represent the object you want to work with. For
+          example, if your making a money counting program you might use
+          variables called cash, account, and total. <br /><br />
 
+          Variables must start with either:
+        </p>
+        <ul>
+          <li>a character from a-z</li>
+          <li>an underscore (_)</li>
+          <li>a dollar sign ($)</li>
+        </ul>
+        <p>
+          Subsequent characters can be any of the above listed or a digit from
+          0-9. Variables in are case sensitive, although normally variables in
+          Python are lower case when using a character from a-z.
+        </p>
       </section>
-      <section class="main-section" id="declaring_variables">
+      <section class="main-section" id="Declaring_Variables">
         <header>Declaring Variables</header>
-
+        <p>Here is the conventional way to declare a variable in Python:</p>
+        <code> name = value </code>
+        <p>
+          The value can be anything from a number, string, character, list, set,
+          dict, and so on.
+        </p>
       </section>
-      <section class="main-section" id="variable_scope">
+      <section class="main-section" id="Variable_Scope">
         <header>Variable Scope</header>
-
+        <p>
+          The scope of a variable is in the function it is declared in. It is
+          convention to declare variables in functions. There are other kinds of
+          variables. A function can be called with arguments and accept those
+          values as parameter variables, which allow those to be within the
+          scope of that function.
+        </p>
+        <code>
+          <pre>
+def function_name(param1, param2):
+    var_name = value
+    print(param1, param2, var_name)</pre
+          >
+        </code>
+        <p>This function has three variables in scope</p>
       </section>
-      <section class="main-section" id="global_variables">
+      <section class="main-section" id="Global_Variables">
         <header>Global Variables</header>
-
+        <p>
+          Variables declared outside of a function or class are known as global
+          varaibles. Their scope is the whole program and its value is
+          accessible everywhere. Global variables are declared in all upper case
+          to distinguish them:
+        </p>
+        <code> GLOBAL_VAR_NAME = value </code>
+        <p>
+          Global variable value are usually not meant to be altered and should
+          only be accessed.
+        </p>
       </section>
-      <section class="main-section" id="if_else_statement">
+      <section class="main-section" id="If...Else_Statement">
         <header>if...else Statement</header>
-
+        <p>
+          You can define conditions that must be met before statements are run.
+          Here is the basic syntax of an if-else statement:
+        </p>
+        <code>
+          <pre>
+if (condition)
+    statement(s)
+else
+    statement(s)</pre
+          >
+        </code>
+        <p>The else statement is optional.</p>
+        <p>
+          You can also define compound conditions using if, elif, and else
+          statements in combination:
+        </p>
+        <code>
+          <pre>
+if (condition)
+    statement(s)
+elif (condition)
+    statement(s)
+...
+else
+    statement(s)</pre
+          >
+        </code>
+        <p>
+          You can only define one if- and else-statement, but you can define
+          unlimit elif statements. Note: elif stands for else if.
+        </p>
       </section>
-      <section class="main-section" id="for_statement">
-        <header>for statement</header>
-
-      </section>
-      <section class="main-section" id="function_declarations">
-        <header>Function Declarations</header>
-
-      </section>
-      <section class="main-section" id="reference">
+      <section class="main-section" id="Reference">
         <header>Reference</header>
-
+        <p>My memories.</p>
       </section>
+      <div class="space"></div>
     </main>
   </body>
 </html>

@@ -1,0 +1,126 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  width: 100%;
+  font-family: helvetica;
+}
+
+#page-title {
+  height: 3rem;
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(28, 27, 27);
+  border: 1px solid rgb(55, 55, 55);
+  padding-left: 10px;
+  padding-top: 20px;
+  background: rgba(191, 204, 223, 0.486);
+}
+
+#navbar {
+  float: left;
+  width: 250px;
+  border: 2px solid rgb(55, 55, 55);
+  border-radius: 5px;
+  position: fixed;
+  top: 0;
+}
+
+
+
+.nav-link {
+  color: #000;
+  text-decoration: none;
+  font-size: 18px;
+  border: 1px solid rgb(55, 55, 55);
+  padding: 15px 5px 15px 15px;
+  display: inline-block;
+  width: 228px;
+}
+
+.nav-link:hover {
+  background: rgba(191, 204, 223, 0.295);
+}
+
+#main-doc {
+  position: relative;
+  float: left;
+  height: 100%;
+  font-size: 18px;
+  padding: 20px 10px 50px 30px;
+  margin: 0 0 0 250px;
+  width: calc(100% - 300px);
+}
+
+header {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+p {
+  padding-right: 20px;
+}
+
+li {
+  padding: 5px 20px 5px 0;
+}
+
+code {
+  padding: 20px 20px 20px 20px;
+  background: rgba(128, 128, 128, 0.145);
+  display: inline-block;
+  width: calc(100% - 80px);
+  margin-left: 20px;
+}
+
+pre {
+  margin: 0;
+}
+
+.space {
+  height: 50px;
+}
+
+@media (max-width: 650px) {
+  #page-title {
+    max-width: 97%;
+    min-width: 97%;
+    height: auto;
+    padding-bottom: 13px;
+  }
+
+  #navbar {
+    max-width: 98%;
+    min-width: 98%;
+    height: 280px;
+    overflow-y: scroll;
+    position: relative;
+  }
+
+  .nav-link {
+    max-width: 95%;
+    min-width: 95%;
+  }
+
+  #main-doc {
+    width: 99%;
+    padding: 30px 50px 30px 15px;
+    margin: 0;
+  }
+
+  header {
+    font-size: 25px;
+  }
+
+  p {
+    padding-right: 25px;
+  }
+
+  code {
+    padding: 20px 20px 20px 20px;
+    background: rgba(128, 128, 128, 0.145);
+    display: inline-block;
+    width: calc(100% - 80px);
+    margin-left: 0;
+  }
+}

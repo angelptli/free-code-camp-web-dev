@@ -38,10 +38,10 @@
     - [Learn CSS Flexbox by Building a Photo Gallery](./responsive-web-design/Milestone-2/Photo-Gallery/) (21/21)
     - [Learn Typography by Building a Nutrition Label](./responsive-web-design/Milestone-2/Nutrition-Label/) (66/66)
     - [Learn Accessibility by Building a Quiz](./responsive-web-design/Milestone-2/Quiz/) (67/67)
-- [Milestone 3](./responsive-web-design/Milestone-3/) - In Progress
+- [Milestone 3](./responsive-web-design/Milestone-3/) - Complete
     - [Learn More About CSS Pseudo Selectors by Building A Balance Sheet](./responsive-web-design/Milestone-3/Balance-Sheet/) (65/65)
     - [Learn Intermediate CSS by Building a Picasso Painting](./responsive-web-design/Milestone-3/Picasso-Painting/) (89/89)
-    - [Learn Responsive Web Design by Building a Piano](./responsive-web-design/Milestone-3/Piano/) (0/33)
+    - [Learn Responsive Web Design by Building a Piano](./responsive-web-design/Milestone-3/Piano/) (33/33)
 - [Milestone 4](./responsive-web-design/Milestone-4/)
     - [Learn CSS Variables by Building a City Skyline](./responsive-web-design/Milestone-4/City-Skyline/) (0/118)
     - [Learn CSS Grid by Building a Magazine](./responsive-web-design/Milestone-4/Magazine/) (0/80)

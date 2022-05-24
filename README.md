@@ -53,6 +53,7 @@
     - [Tribute Page](./responsive-web-design/Projects/Tribute-Page/) - Complete
     - [Technical Documentation Page](./responsive-web-design/Projects/Technical-Documentation-Page/) - Complete
     - [Product Landing Page](./responsive-web-design/Projects/Product-Landing-Page/)
+    - [Personal Portfolio Webpage](./responsive-web-design/Projects/Personal-Portfolio-Webpage/)
 - [Legacy Curriculum](./responsive-web-design/Legacy-Curriculum/)
     - [Basic HTML and HTML5](./responsive-web-design/Legacy-Curriculum/HTML-HTML5/) - Complete
     - [Basic CSS](./responsive-web-design/Legacy-Curriculum/CSS/Basic/) - Complete

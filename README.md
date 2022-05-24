@@ -88,6 +88,7 @@
 ## Project Snapshots
 - [Pasta Order Form](./responsive-web-design/Projects/Survey-Form/)
 - [Ronnie The Cow Tribute Page](./responsive-web-design/Projects/Tribute-Page/)
+- [Tech Doc Page for Python](./responsive-web-design/Projects/Technical-Documentation-Page/)
 
 ## Credits
 <h5>Curriculum by <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a> - Visit for more certifications and to learn how to code!</h5>

@@ -42,8 +42,8 @@
     - [Learn More About CSS Pseudo Selectors by Building A Balance Sheet](./responsive-web-design/Milestone-3/Balance-Sheet/) (65/65)
     - [Learn Intermediate CSS by Building a Picasso Painting](./responsive-web-design/Milestone-3/Picasso-Painting/) (89/89)
     - [Learn Responsive Web Design by Building a Piano](./responsive-web-design/Milestone-3/Piano/) (33/33)
-- [Milestone 4](./responsive-web-design/Milestone-4/)
-    - [Learn CSS Variables by Building a City Skyline](./responsive-web-design/Milestone-4/City-Skyline/) (0/118)
+- [Milestone 4](./responsive-web-design/Milestone-4/) - In Progress
+    - [Learn CSS Variables by Building a City Skyline](./responsive-web-design/Milestone-4/City-Skyline/) (50/118)
     - [Learn CSS Grid by Building a Magazine](./responsive-web-design/Milestone-4/Magazine/) (0/80)
 - [Milestone 5](./responsive-web-design/Milestone-5/)
     - [Learn CSS Transforms by Building a Penguin](./responsive-web-design/Milestone-5/Penguin/) (0/104)

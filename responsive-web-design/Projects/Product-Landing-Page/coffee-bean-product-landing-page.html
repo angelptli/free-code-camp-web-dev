@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./styles.css" type="text/css" />
+  </head>
+  <body>
+    <header id="header">
+      <nav id="nav-bar">
+        <img
+          id="header-img"
+          src="https://freepngimg.com/thumb/coffee/30504-4-coffee-logo-transparent.png"
+        />
+        <a class="nav-link" href="#product">Product</a>
+        <a class="nav-link" href="#learn-to-grind">Learn to Grind</a>
+        <a class="nav-link" href="#pricing">Pricing</a>
+      </nav>
+    </header>
+    <div class="container">
+      <section id="product">
+        <h1>Product</h1>
+        <img
+          id="bean-product"
+          src="./media/coffee-beans.jpg"
+        />
+        <p>Try our specialty grade Crush Coffee beans!</p>
+      </section>
+      <br />
+      <section id="learn-to-grind">
+        <h2>Learn To Grind</h2>
+        <iframe
+          id="video"
+          src="https://www.youtube.com/embed/cqgzwtG2tVQ"
+          frameborder="0"
+          allowfullscreen
+        ></iframe>
+        <p>Watch a quick video to learn how to grind coffee beans!</p>
+      </section>
+      <br />
+      <section id="pricing">
+        <h2>Pricing</h2>
+        <div class="cards-container">
+          <div class="cards">
+            <div class="card">
+              <div class="price-tag">
+                <div class="bag">5LB Bag</div>
+                <div class="bag-label">Crush Coffee Beans</div>
+                <div class="prices">$15</div>
+                <form id="select-product1" action="#">
+                  <button type="submit">Order</button>
+                </form>
+              </div>
+            </div>
+            <div class="card">
+              <div class="price-tag">
+                <div class="bag">15LB Bag</div>
+                <div class="bag-label">Crush Coffee Beans</div>
+                <div class="prices">$40</div>
+                <form id="select-product2" action="#">
+                  <button type="submit">Order</button>
+                </form>
+              </div>
+            </div>
+            <div class="card">
+              <div class="price-tag">
+                <div class="bag">30LB Bag</div>
+                <div class="bag-label">Crush Coffee Beans</div>
+                <div class="prices">$80</div>
+                <form id="select-product3" action="#">
+                  <button type="submit">Order</button>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <br />
+      <br />
+      <form id="form" action="https://www.freecodecamp.com/email-submit">
+        <h2>Join Mailing List</h2>
+        <input
+          id="email"
+          name="email"
+          placeholder="Enter your email address"
+          type="email"
+        />
+        <input name="submit" id="submit" type="submit" value="Submit" />
+        <p>Keep up with our monthly sales, up to 50% off!</p>
+      </form>
+    </div>
+  </body>
+</html>

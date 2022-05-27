@@ -45,8 +45,8 @@
 - [Milestone 4](./responsive-web-design/Milestone-4/) - Complete
     - [Learn CSS Variables by Building a City Skyline](./responsive-web-design/Milestone-4/City-Skyline/) (118/118)
     - [Learn CSS Grid by Building a Magazine](./responsive-web-design/Milestone-4/Magazine/) (80/80)
-- [Milestone 5](./responsive-web-design/Milestone-5/)
-    - [Learn CSS Transforms by Building a Penguin](./responsive-web-design/Milestone-5/Penguin/) (0/104)
+- [Milestone 5](./responsive-web-design/Milestone-5/) - In Progress
+    - [Learn CSS Transforms by Building a Penguin](./responsive-web-design/Milestone-5/Penguin/) (9/104)
     - [Learn CSS Animation by Building a Ferris Wheel](./responsive-web-design/Milestone-5/Ferris-Wheel/) (0/29)
 - [Projects](./responsive-web-design/Projects/) (4/5)
     - [Survey Form](./responsive-web-design/Projects/Survey-Form/) - Complete

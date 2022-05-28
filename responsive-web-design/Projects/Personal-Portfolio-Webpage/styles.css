@@ -1,14 +1,17 @@
-* {
-  box-sizing: border-box;
-}
-
 #welcome-section {
-  height: 100vh;
+  margin-top: 60px;
 }
 
 body {
-  overflow: hidden;
   margin: 0;
+  font-family: Tahoma;
+  background-color: rgb(13, 82, 134);
+
+}
+
+header {
+  margin: 0;
+  padding-right: 500px;
 }
 
 #navbar {
@@ -16,11 +19,12 @@ body {
   top: 0;
   left: 0;
   width: 100%;
-  background-color: purple;
-  font-family: "Exo 2", sans-serif;
+  background-color: rgb(18, 56, 112);
+  font-family: 'Exo 2', sans-serif;
   display: absolute;
   margin: 0;
-  padding: 10px 20px 10px;
+  padding: 20px 20px 20px 20px;
+  border: 2px solid white;
 }
 
 #nav-items {
@@ -30,32 +34,132 @@ body {
 .nav-link {
   display: inline-block;
   text-decoration: none;
-  width: 100px;
+  width: 120px;
   font-size: 20px;
-  text-align: center;
   color: white;
+}
+
+#welcome-section {
+  background-color: rgb(17, 81, 130);
+  height: 100vh;
+  text-align: center;
+  padding-top: 200px;
+}
+
+#welcome-statement {
+  color: rgb(152, 202, 236);
+  font-size: 60px;
+}
+
+#job-title {
+  color: rgba(255, 255, 255, 0.918);
+  font-style: italic;
+  font-size: 35px;
+  position: relative;
+  top: -20px;
+}
+
+.project-title {
+  font-size: 35px;
+  color: rgba(255, 255, 255, 0.911);
+}
+
+u {
+  color: rgb(188, 212, 238);
+}
+
+#projects {
+  height: auto;
+  background: rgb(92, 148, 186);
+  text-align: center;
+  padding: 50px 0 50px 0;
+
 }
 
 #projects-container {
   margin: 0 auto;
   display: grid;
   gap: 3rem;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   justify-items: center;
+  width: fit-content;
 }
 
-.project {
-  width: 350px;
+img {
+  width: 600px;
+  border: 2px solid white;
+  border-radius: 5px;
 }
 
-@media (max-width: 600px) {
-  #projects-container {
-    grid-template-columns: repeat(2, 1fr);
-  }
+#contact {
+  height: 35vh;
+  text-align: center;
+  position: relative;
+  bottom: 20px;
+  padding: 100px 0 30px 0;
 }
 
-@media (max-width: 450px) {
+#more-projects {
+  font-size: 35px;
+  color: rgb(153, 202, 248);
+  font-style: italic;
+}
+
+#profile-link {
+  font-size: 28px;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+}
+
+
+@media (max-width: 1270px) {
   #projects-container {
     grid-template-columns: repeat(1, 1fr);
   }
+
+  img {
+    width: 700px;
+  }
 }
+
+@media (max-width: 850px) {
+  img {
+    width: 550px;
+  }
+}
+
+@media (max-width: 620px) {
+  img {
+    width: 450px;
+  }
+}
+
+@media (max-width: 520px) {
+  img {
+    width: 350px;
+  }
+
+  #navbar {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  #nav-items {
+    width: 100%;
+  }
+
+  .nav-link {
+    display: block;
+    text-align: center;
+    width: 100%;
+    padding: 15px 0 15px 0;
+  }
+}
+
+@media (max-width: 420px) {
+  img {
+    width: 250px;
+  }
+}
+

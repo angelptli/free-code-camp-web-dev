@@ -1,0 +1,61 @@
+* {
+  box-sizing: border-box;
+}
+
+#welcome-section {
+  height: 100vh;
+}
+
+body {
+  overflow: hidden;
+  margin: 0;
+}
+
+#navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: purple;
+  font-family: "Exo 2", sans-serif;
+  display: absolute;
+  margin: 0;
+  padding: 10px 20px 10px;
+}
+
+#nav-items {
+  float: right;
+}
+
+.nav-link {
+  display: inline-block;
+  text-decoration: none;
+  width: 100px;
+  font-size: 20px;
+  text-align: center;
+  color: white;
+}
+
+#projects-container {
+  margin: 0 auto;
+  display: grid;
+  gap: 3rem;
+  grid-template-columns: repeat(4, 1fr);
+  justify-items: center;
+}
+
+.project {
+  width: 350px;
+}
+
+@media (max-width: 600px) {
+  #projects-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 450px) {
+  #projects-container {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}

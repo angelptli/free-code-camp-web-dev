@@ -18,7 +18,7 @@ body {
 }
 
 #header {
-  position: sticky;
+  position: fixed;
   top: 0;
   padding: 8px 20px 8px 20px;
   height: auto;

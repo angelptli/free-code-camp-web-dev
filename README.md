@@ -48,12 +48,12 @@
 - [Milestone 5](./responsive-web-design/Milestone-5/) - Complete
     - [Learn CSS Transforms by Building a Penguin](./responsive-web-design/Milestone-5/Penguin/) (104/104)
     - [Learn CSS Animation by Building a Ferris Wheel](./responsive-web-design/Milestone-5/Ferris-Wheel/) (29/29)
-- [Projects](./responsive-web-design/Projects/) (4/5)
+- [Projects](./responsive-web-design/Projects/) (5/5)
     - [Survey Form](./responsive-web-design/Projects/Survey-Form/) - Complete
     - [Tribute Page](./responsive-web-design/Projects/Tribute-Page/) - Complete
     - [Technical Documentation Page](./responsive-web-design/Projects/Technical-Documentation-Page/) - Complete
     - [Product Landing Page](./responsive-web-design/Projects/Product-Landing-Page/) - Complete
-    - [Personal Portfolio Webpage](./responsive-web-design/Projects/Personal-Portfolio-Webpage/) - In Progress
+    - [Personal Portfolio Webpage](./responsive-web-design/Projects/Personal-Portfolio-Webpage/) - Complete
 - [Legacy Curriculum](./responsive-web-design/Legacy-Curriculum/)
     - [Basic HTML and HTML5](./responsive-web-design/Legacy-Curriculum/HTML-HTML5/) - Complete
     - [Basic CSS](./responsive-web-design/Legacy-Curriculum/CSS/Basic/) - Complete
@@ -91,6 +91,7 @@
 - [Ronnie The Cow Tribute Page](./responsive-web-design/Projects/Tribute-Page/)
 - [Tech Doc Page for Python](./responsive-web-design/Projects/Technical-Documentation-Page/)
 - [Coffee Bean Product Page](./responsive-web-design/Projects/Product-Landing-Page/)
+- [freeCodeCamp Portfolio](./responsive-web-design/Projects/freeCodeCamp-Portfolio-Webpage/)
 
 ## Credits
 <h5>Curriculum by <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a> - Visit for more certifications and to learn how to code!</h5>

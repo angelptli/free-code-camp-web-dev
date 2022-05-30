@@ -61,7 +61,7 @@
     - [Applied Accessibility](./responsive-web-design/Legacy-Curriculum/Applied-Accessibility/) - Complete
 </details>
 
-<details>
+<!-- <details>
 <summary>Front End Development Libraries</summary>
 
 <br>
@@ -73,7 +73,7 @@
 - Redux (0/17)
 - React and Redux (0/10)
 - Projects (0/5)
-</details>
+</details> -->
 
 <details>
 <summary>Back End Development and APIs</summary>
